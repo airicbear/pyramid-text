@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 580px;
+  text-align: center;
+}
+
+.row {
+  padding: 10px;
+}
+
+textarea {
+  height: 400px;
+}
