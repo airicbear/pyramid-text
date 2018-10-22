@@ -19,3 +19,9 @@ body {
 textarea {
   height: 400px;
 }
+
+@media only screen and (max-width: 580px) {
+  .wrapper {
+    width: auto;
+  }
+}
